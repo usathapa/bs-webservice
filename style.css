@@ -1,0 +1,28 @@
+.img {
+  margin: auto;
+  height: 175px;
+  width: 175px;
+}
+@media (min-width: 768px) {
+  .news-input {
+    width: 60%;
+  }
+}
+
+/* @media (max-width: 768px) {
+  .instructor {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    row-gap: 12px;
+  }
+}
+
+@media (max-width: 576px) {
+  .instructor {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    row-gap: 12px;
+  }
+} */
